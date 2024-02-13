@@ -1,2 +1,2 @@
-# kerryl021
+# Exercice en C 
 1
